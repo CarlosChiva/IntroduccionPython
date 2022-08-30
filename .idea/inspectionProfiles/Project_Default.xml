@@ -6,6 +6,7 @@
         <list>
           <option value="InterfazGrafica.Calculadora.InterfazCalculadora.TK" />
           <option value="BBDD.BaseDatos.variosProductos" />
+          <option value="DocumentacionYtest.Docum.Areas.__mul__" />
         </list>
       </option>
     </inspection_tool>
